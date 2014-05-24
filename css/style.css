@@ -1,0 +1,105 @@
+html, body 
+{
+    height:100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+body
+{
+    padding-top: 40px;
+    padding-left: 0px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+}
+
+.zju-tab
+{
+    background-color:#242424
+}
+.zju-tab>a
+{
+    background-color:#242424;
+    border-radius:0 0 10px 10px;
+    box-shadow:0 2px 2px rgba(100,100,100,0.4);
+    display:inline-block;
+    height:51px;
+    margin-bottom:-11px;
+    padding:0!important;
+    width:162px
+}
+.zju-tab>a span
+{
+    background-image:url("../assets/logo.png");
+    background-origin:padding-box;
+    background-repeat:repeat;
+    background-size:cover;
+    background-color:#242424;
+    border-radius:0 0 10px 10px;
+    display:inline-block;
+    height:51px;
+    margin-bottom:-11px;
+    padding:0;
+    text-indent:-9999px;
+    width:162px
+}
+.zju-tab>a:hover
+{
+    opacity:1;
+    background-color:#242424!important
+}
+.zju-tab>a:hover span
+{
+    opacity:.9
+}
+@media(max-width:767px)
+{
+    #initiative-info
+    {
+        margin-right:-20px;
+        margin-left:-20px
+    }
+}
+@media(min-width:979px)
+{
+    .navbar-static-top .container,
+    .navbar-fixed-top .container,
+    .navbar-fixed-bottom .container
+    {
+        width:940px
+    }
+}
+@media(max-width:979px)
+{
+    .zju-tab
+    {
+        background-color:transparent
+    }
+    .zju-tab>a
+    {
+        background-color:transparent;
+        border-radius:0;
+        box-shadow:none;
+        display:inline-block;
+        height:auto;
+        margin-bottom:0;
+        padding:9px 15px!important;
+        width:auto
+    }
+    .zju-tab>a span
+    {
+        background-image:none;
+        background-color:transparent;
+        border-radius:0;
+        display:inline;
+        margin-bottom:0;
+        padding:0;text-indent:0
+    }
+    .zju-tab>a:hover
+    {
+        background-color:transparent!important
+    }
+    .zju-tab>a:hover span{
+        opacity:1
+    }
+}
