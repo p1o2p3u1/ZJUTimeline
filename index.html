@@ -1,1 +1,104 @@
-My GitHub Page
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>浙江大学校史Timeline</title>
+        <meta charset="utf-8">
+        <meta name="description" content="浙江大学校史Timeline">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-touch-fullscreen" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+        <link href="css/bootstrap.css"  rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+  <body>
+      
+      <div class="navbar navbar-inverse navbar-fixed-top">
+          <div class="container-fluid">
+              <a href="#" class="navbar-brand pull-left">浙江大学Timeline</a>
+              
+              <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              
+              <div class="collpase navbar-collpase navHeaderCollapse" style="height:0px;">
+                  <ul class="nav navbar-nav navbar-right">
+                      <li class="zju-tab active"><a href="http://www.zju.edu.cn" title="浙江大学"><span>浙江大学</span></a></li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+     
+      <div id="timeline-embed"></div>
+      
+      
+      <div class="navbar navbar-inverse navbar-fixed-bottom">
+          <div class="container-fluid">
+              <p class="navbar-text pull-left">Created By wuting@zju.edu.cn</p>
+              <a href="#contact" class="navbar-btn btn-danger btn pull-right" data-toggle="modal">添加事件</a>
+          </div>
+      </div>
+      
+      <div class="modal fade" id="contact" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+                <form class="form-horizontal">
+                    <div class="modal-header">
+                        <h4>添加事件</h4>
+                    </div> 
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label for="start-date" class="col-md-2 control-label">开始日期</label>
+                            <div class="col-md-4">
+                                <input type="date" class="form-control" id="start-date">
+                            </div>
+                            <label for="end-date" class="col-md-2 control-label">结束日期</label>
+                            <div class="col-md-4">
+                                <input type="date" class="form-control" id="end-date">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headline" class="col-md-2 control-label">事件标题</label>
+                            <div class="col-md-10">
+                                <input type="text" class="form-control" id="headline" placeholder="事件标题">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="media" class="col-md-2 control-label">媒体链接</label>
+                            <div class="col-md-10">
+                                <input type="text" class="form-control" id="media" placeholder="图片，视频等多媒体链接URL">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="textfield" class="col-md-2 control-label">详细信息</label>
+                            <div class="col-md-10">
+                                <textarea class="form-control" rows="3" placeholder="事件的详细信息"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <a class="btn btn-default" data-dismiss="modal">添加</a>
+                        <a class="btn btn-primary" data-dismiss="modal">关闭</a>
+                    </div>
+                </form>
+            </div>
+          </div>
+      </div>
+      
+      <script type="text/javascript">
+        var timeline_config = {
+         width: "100%",
+         height: "100%",
+         source: 'zju_timeline.json',
+         css: 'css\timeline.css',
+         lang: 'zh-cn'
+        }
+      </script>
+      
+      <script src="js/jquery-1.11.1.min.js"></script>
+      <script type="text/javascript" src="js/storyjs-embed.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      
+    </body>
+</html>
