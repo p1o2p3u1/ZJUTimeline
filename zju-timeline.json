@@ -1,0 +1,273 @@
+{
+    "timeline":
+    {
+        "headline": "浙江大学120周年校庆",
+        "type": "default",
+        "text": "国有成均，在浙之滨<br>浙江大学校史时光轴",
+        "startDate": "",
+        "asset": 
+        {
+            "media": "<iframe height=498 width=510 src='http://player.youku.com/embed/XMzkxODUzMTI=' frameborder=0 allowfullscreen></iframe>",
+            "caption":"浙江大学校歌《大不自多》"
+        },
+        "date": 
+        [
+            {
+                "startDate": "1897",
+                "endDate": "1928",
+                "headline": "溯源：在国难中诞生的求是书院",
+                "text": "<p>在清末维新的浪潮中诞生的求是书院是浙江大学的前身，是中国人自己创办的最早的新式高等学堂之一。求是书院秉持”居今日而图治，以培养人才为第一义；居今日而育才，以讲求实学为第一义“的办学宗旨，着眼民族复兴，致力人才培养，开启了教育救国，人才兴国的探索历程，是百年浙大文化传统的源头。师生“正其义，不谋其利，明其道，不计其功”，形成了“勤、诚”的优良校风和”兼课中西”、思境大辟的文化特色。1927年，在求是书院的基础上成立第三中山大学。</p>",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1897-1928-qiushishuyuan.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1897-1928-qiushishuyuan-thumb.png"
+                }
+            },
+            {
+                "startDate":"1897,5",
+                "headline":"求是书院创始人——林启",
+                "text":"<p>　　<strong><a href='http://baike.baidu.com/view/602185.htm'>林启</a></strong>(1839-1900)，字迪臣，福建侯官（今福建）人。先生1876年中进士，曾任翰林院<a href='http://baike.baidu.com/view/59765.htm' target='_blank'>庶吉士</a>、<a href='http://baike.baidu.com/view/49081.htm' target='_blank'>编修</a>、陕西学政、浙江道检查御史等职。1897年创办浙江大学前身——求是书院<br>　　先生认为旧式书院”只空谈义理，弱志词章“，不能适应革新图强的需要。于是，先生与浙江巡抚<strong><a href='http://baike.baidu.com/view/7224158.htm'>廖寿丰</a></strong>等共同商议，建议创办新式学堂，得到清廷批准。1897年，求是书院在杭州蒲场巷普慈寺成立。先生任求是书院总办，负责确定章程、延聘师资、招收学生等各项事宜，还选派留学生留学日本，培养了大批优秀人才。<br>　　1900年，先生病史于任上，杭城百姓感其”谋邦资卓识，兴学启新知“卓越功绩，在西子湖畔修”<strong><a href='http://baike.baidu.com/view/14524651.htm'>林社</a></strong>“以纪念，谓”太守遗爱，永在人间“。</p>",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1897-5-linqi.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1897-5-linqi-thumb.png"
+                }
+            },
+            {
+                "startDate":"1911,11,26",
+                "headline":"开创浙江高等工业教育",
+                "text":"<p>浙江巡抚<a href='http://baike.baidu.com/view/2149832.htm' target='_blank'>增韫</a>专折上奏请清廷获准，筹办<a href='http://baike.baidu.com/view/17859.htm' target='_blank'>浙江中等工业学堂</a>。1911年3月27日，浙江中等工业学堂正式开学，校址设在杭州蒲场巷杨关弄报国寺。1912年至1920年期间先后改称浙江公立中等工业学校，浙江省立甲种工业学校，1920年升格为浙江公立工业专门学校（简称浙江工专），这是浙江高等工业教育的发端。1927年浙江工专改组为<a href='http://baike.baidu.com/view/2803435.htm' target='_blank'>国立第三中山大学</a>工学院</p>",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1911-11-26-baoguosi.jpg", 
+                    "thumbnail":"http://127.0.0.1:19294/images/thumbs/1911-11-26-baoguosi-thumb.png"
+                }
+            },
+            {
+                "startDate":"1910,1,22",
+                "headline":"开创浙江高等农业教育",
+                "text":"<p>浙江巡抚<a href='http://baike.baidu.com/view/2149832.htm' target='_blank'>增韫</a>奏请设立高等农业学堂和农业教员讲习所。同年9月成立农业教员养成所，后改为农业教员讲习所。校址设在<a href='http://baike.baidu.com/view/10202068.htm' target='_blank'>杭州马坡巷</a>，后迁到<a href='http://baike.baidu.com/view/435936.htm' target='_blank'>横河桥</a>。1912年改称浙江中等农业学堂，后改称浙江省甲种农业学校，1924年升格为浙江公立农业专门学校（简称浙江农专），这是浙江农业高等教育的起点。1927年浙江农专改组为<a href='http://www.cab.zju.edu.cn/college-cel/' target='_blank'>国立第三中山大学劳农学院</a>。</p>",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1910-1-22-nongxueyuan.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1910-1-22-nongxueyuan-thumb.png"
+                }
+            },
+            {
+                "startDate":"1927,7,15",
+                "headline":"国立第三中山大学创立",
+                "text":"<p>1927年7月15日，国立第三中山大学在原浙江高等学校（求是书院）的旧址蒲场巷宣告成立。第三中山大学将浙江工专和浙江农专分别改组成为其下属的工学院和劳农学院，同时筹建文理学院。国民政府任命<a href='http://baike.baidu.com/view/131087.htm' target='_blank'>蒋梦麟</a>为第三中山大学校长。1927年8月3日，根据国民政府教育行政委员会命令，第三中山大学冠名”国立“二字。</p>",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1927-2-15-guolidisanzhongshandaxue.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1927-2-15-guolidisanzhongshandaxue-thumb.png"
+                }
+            },
+            {
+                "startDate": "1928",
+                "endDate": "1937",
+                "headline": "探求：全面抗战前的浙江大学",
+                "text": "<p>1928年2月，第三中山大学改名为浙江大学，1928年5月起改称<a href='http://baike.baidu.com/view/2548.htm' target='_blank'>国立浙江大学</a>。1928年至1936年的早期国立浙江大学，不仅在体制上是自求是书院到浙江高等学堂的办学延续，更重要的是她使得“求是”传统得以继承和发展。在此期间，<a href='http://baike.baidu.com/view/131087.htm' target='_blank'>蒋梦麟</a>、<a href='http://baike.baidu.com/view/1994362.htm' target='_blank'>邵裴子</a>、<a href='http://baike.baidu.com/view/479018.htm' target='_blank'>程天放</a>、<a href='http://baike.baidu.com/view/1107031.htm' target='_blank'>郭任远</a>相继担任校长，学校在教学、科研、实验等方面取得了初步成效，但也经历了动荡挫折。1936年4月，著名科学家、教育家<a href='http://baike.baidu.com/view/21021.htm' target='_blank'>竺可桢</a>出任国立浙江大学校长，迅速扭转局面，使浙江大学从动荡不安转入了正常的发展轨道。</p>",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1928-1937-zhejiangdaxue.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1928-1937-zhejiangdaxue-thumb.png"
+                }
+            },
+            {
+                "startDate":"1928,2,28",
+                "headline":"定名国立浙江大学",
+                "text":"<p>1928年7月25日，大学院院长蔡元培签署第389号训令，批准浙江大学冠以“国立”，即国立浙江大学。著名教育学家<a href='http://baike.baidu.com/view/131087.htm' target='_blank'>蒋梦麟</a>、<a href='http://baike.baidu.com/view/1994362.htm' target='_blank'>邵裴子</a>先后出任校长。他们根据社会需求社系科，创办文理学院，注重实验和实践，引进国外先进教育制度，实行教授治校，推行学分制，学校规模渐长，院系有所发展，一些声望卓著的学者前来任教，人才培养不断提高，在教学、科研、实验等方面取得了初步的成效。</p>",
+                "asset":
+                {
+                    "media":""
+                }
+            },
+            {
+                "startDate":"1927",
+                "endDate":"1930",
+                "headline":"教育家蒋梦麟",
+                "text":"<p>　　<strong><a href='http://baike.baidu.com/view/131087.htm' target='_blank'>蒋梦麟</a></strong>（1886-1964），原名梦熊，字兆贤，号孟邻，浙江余姚人。著名教育家、政治家<br>　　先生1903年入浙江高等学堂学习，次年中秀才。1912年曾赴美国留学，主攻教育学，获博士学位。1917年回国。曾任孙中山秘书、北大校长、浙江省教育厅厅长、大学院院长、教育部长等职。<br>　　先生担任浙江大学校长期间，慎选师资，广揽人才。仅几年工夫，聘得<a href='http://baike.baidu.com/view/108564.htm' target='_blank'>钱宝琮</a>、<a href='http://baike.baidu.com/view/1107031.htm' target='_blank'>郭任远</a>、<a href='http://baike.baidu.com/view/257294.htm' target='_blank'>张绍忠</a>、<a href='http://baike.baidu.com/view/150744.htm' target='_blank'>梁溪</a>、<a href='http://baike.baidu.com/view/78681.htm' target='_blank'>刘大白</a>、<a href='http://baike.baidu.com/view/1085203.htm' target='_blank'>袁敦礼</a>、<a href='http://baike.baidu.com/view/1273286.htm' target='_blank'>顾毓琇</a>、潘承圻、<a href='http://baike.baidu.com/subview/1530355/6038080.htm' target='_blank'>许璇</a>等不少国内外一流的学者来校任教，为浙江大学的发展奠定了良好的师资基础。</p>",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1927-1930-jiangmenglin.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1927-1930-jiangmenglin-thumb.png"
+                }
+            },
+            {
+                "startDate":"1930",
+                "endDate":"1931",
+                "headline":"教育家邵裴子",
+                "text":"<p>　　<strong><a href='http://baike.baidu.com/view/1994362.htm' target='_blank'>邵裴子</a></strong>(1884-1968), 原名闻泰，又名长光，杭州人。著名的教育家，经济学家，浙江省文物保护事业的创始人和开拓者。<br>　　先生1899年考入求是书院。毕业后留学<a href='http://baike.baidu.com/view/13725.htm'>斯坦福大学</a>攻读经济学。曾担任浙江高等学校校长，第三中山大学筹备委员会委员，文理学院院长，国立浙江大学副校长等职务。1930年任国立浙江大学校长。新中国成立后，曾任全国人大代表，全国政协委员等。<br>　　先生执掌校务期间，贯彻<a href='http://baike.baidu.com/view/2008.htm'>蔡元培</a>先生“民主办学，教授治校”的精神，尊重教授，作风民主，吸引社会各界贤达名流受聘浙大。</p>",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1930-1931-shaopeizi.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1930-1931-shaopeizi-thumb.png"
+                }
+            },
+            {
+                "startDate":"1927",
+                "endDate":"1936",
+                "headline":"国立浙江大学早期发展",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1927-1936-zaoqifazhan.jpg",
+                    "caption": "国立浙江大学早期发展"                    
+                }
+            },
+            {
+                "startDate":"1927",
+                "endDate":"1936",
+                "headline":"国立浙江大学早期发展",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1927-1936-zaoqifazhan2.jpg",
+                    "caption": "国立浙江大学文理学院教职员工与学生合影"
+                }
+            },
+            {
+                "startDate":"1927",
+                "endDate":"1936",
+                "headline":"国立浙江大学早期发展",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1927-1936-zaoqifazhan3.jpg",
+                    "caption": "浙江大学学生在杭州街头演出《放下你的鞭子》"
+                }
+            },
+            {
+                "startDate":"1936,4",
+                "headline":"竺可桢出任国立浙江大学校长",
+                "text":"<p>　　<strong><a href='http://baike.baidu.com/view/21021.htm' target='_blank'>竺可桢</a></strong>（1890-1974），字藕舫，浙江上虞人。中国科学院院士（学部委员）。气象学家、教育家。被誉为“我国近代科学家、教育家的一面旗帜，地理学界、气象学界的一代宗师”。<br>　　先生曾留学美国，获哈弗大学博士学位，1918年归国。历任东南大学地学习主任，中央研究院气象所所长，中国科学社社长等职。1936年4月任浙江大学校长。新中国成立后任中科院副院长等职。<br>　　先生掌校后，着力革除弊政，聘选优秀教授充实师资，学校人才济济，科研成果卓著。先生办学注重通才教育，尊崇思想自由，推动科学研究。抗日战争爆发，先生率领全校师生员工及部分家属携带大批图书资料和仪器设备，开始西迁流亡办学。<br>　　先生一生办学业绩卓著，在气象、地理与自然资源考察、科学普及、科研管理和诸多科学文化领域皆有杰出贡献。先生毕其一生研究而形成的著作《中国近五千年来气候变迁的初步研究》，引起了世界轰动。</p>",
+                "asset":
+                {
+                    "media":"http://127.0.0.1:19294/images/1936-4-zhukezhen.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1936-4-zhukezhen-thumb.png"
+                }
+            },
+            {
+                "startDate":"1936,4",
+                "headline":"大师《竺可桢》",
+                "asset":
+                {
+                    "media":"<iframe height=498 width=510 src='http://player.youku.com/embed/XOTU2MDkzNg==' frameborder=0 allowfullscreen></iframe>",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1936-4-zhukezhen-thumb.png"
+                }
+            },
+            {
+                "startDate": "1937",
+                "endDate": "1946",
+                "headline": "崛起：西迁办学中的浙江大学",
+                "text": "<p>由于日寇的侵略，浙江大学被迫在竺可桢校长的率领，举校西迁，坚持办学。西迁办学是浙江大学发展历史上的一个重要时期，浙大在烽火硝烟中崛起，成为当时中国最好的四所学校之一，被世界著名科技史学者李约瑟称赞为“东方剑桥”。西迁办学也是浙江大学“求是”精神全面形成并得到迅速发展的重要时期。在继承优良传统和汲取世界一流大学净化的基础上，竺可桢校长以培养”公忠坚毅、担当大任、主持风气、转移国运的领导人才”为育人目标，确立“求是”为校训，并将“求是”精神阐释为奋斗精神、牺牲精神、革命精神和科学精神。全校师生力行求是，不畏艰险，追求真理，创造了中国近代高等教育史上的奇迹。这一时期形成的“西迁文化”是学校极其宝贵的精神财富。</p>",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1937-1946-xiqian.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1937-1946-xiqian-thumb.png"
+                }
+            },
+            {
+                "startDate": "1937,11,11",
+                "headline": "初迁浙江建德",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1937-11-11-jiande.jpg",
+                    "caption": "初迁浙江建德",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1937-11-11-jiande-thumb.png"
+                }
+            },
+            {
+                "startDate": "1937,9",
+                "headline": "施行导师制",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1937-9-daoshizhi.jpg",
+                    "caption": "竺可桢校长与体育教授舒鸿（左）、一年级主任潘承圻（右）在寺前合影",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1937-9-daoshizhi-thumb.png"
+                }
+            },
+            {
+                "startDate": "1937,12,24",
+                "headline": "继迁江西吉安、泰和",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1937-12-24-jiantaihe.jpg",
+                    "caption": "继迁江西吉安、泰和",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1937-12-24-jiantaihe-thumb.png"
+                }
+            },
+            {
+                "startDate": "1938,4",
+                "headline": "继迁江西吉安、泰和",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1937-12-25-heying.jpg",
+                    "caption": "马一浮在江西泰和为浙大讲学时，在遐观楼前和浙大部分教师合影",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1937-12-25-heying-thumb.png"
+                }
+            },
+            {
+                "startDate": "1938,4",
+                "headline": "“一代儒宗”马一浮",
+                "text": "<p>　　<strong><a href='http://baike.baidu.com/view/2018.htm'>马一浮</a></strong>（1883～1967），名浮，字一浮，又字一佛，号堪翁、被揭，晚号蠲叟、蠲戏老人。浙江绍兴人，儒学大师，书法篆刻家，现代儒学学派的创始人之一，有“儒释哲一代宗师”之称。<br>　　先生1899年赴上海学习英、法、拉丁文。1903年6月，赴美国主办留学生监督公署中文文牍，后又赴德国和西班牙学习外语。1904年东渡至日本学习日文；1911年回国，赞同孙中山领导的辛亥革命，常撰文宣传西方进步思想。辛亥革命后，潜心研究学术，古代哲学、文学、佛学，无不造诣精深，又精于书法，合章草、汉隶于一体，自成一家。蔡元培曾邀赴北京大学任教，蒋介石许以官职，均不应命。抗日战争爆发后，应竺可桢聘请，任浙江大学教授，又去江西、广西讲学；1939年夏，抗战期间在四川乐山创办“复性书院”，任院长兼主讲。<br>　　先生在浙大为学校留下的又一宝贵文化遗产是在宜山时期，接受竺可桢校长的约请，撰写了流芳后世的浙大校歌歌词。</p>",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1938-4-mayifu.jpg",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1938-4-mayifu-thumb.png"
+                }
+            },
+            {
+                "startDate": "1938,8,3",
+                "headline": "泰和遗恨",
+                "text": "<p>　　<strong><a href='http://baike.baidu.com/view/5995569.htm'>张侠魂</a>，湖南湘乡人，竺可桢之妻。</strong><br>　　<a href='http://baike.baidu.com/view/5995569.htm'>张侠魂</a>女士毕业于上海女校，1919年与竺可桢结婚。婚后竺可桢来到武汉，后到浙江大学。1938年抗战愈演愈烈，浙大在泰和已无法上课，不得不再次筹划西迁。竺可桢校长经长沙赴广西各地考察，寻找合适的迁校地点。出乎意料的是，在他外出考察期间，妻子张侠魂以及次子竺衡几乎同时患上痢疾，由于条件艰苦，缺医少药，竺衡不幸于7月21日去世，张侠魂于8月3日去世。半月之内接连丧妻失子，对他来说是个极沉重的打击。</p>",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1938-8-3-taiheyihen.jpg",
+                    "caption": "张侠魂和竺衡母子葬于泰和松山",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1938-8-3-taiheyihen-thumb.png"
+                }
+            },
+            {
+                "startDate": "1938,7，25",
+                "headline": "三迁广西宜山",
+                "asset":
+                {
+                    "media": "http://127.0.0.1:19294/images/1938-7-25-sanqian.jpg",
+                    "caption": "战火纷飞，转移广西",
+                    "thumbnail": "http://127.0.0.1:19294/images/thumbs/1938-7-25-sanqian-thumb.png"
+                }
+            },
+            {
+                "startDate": "1946",
+                "endDate": "1949",
+                "headline": "奋争：迎接黎明的浙江大学",
+                "text": "<p>1945年8月，日本侵略军无条件投降，中国抗日战争取得了彻底的胜利。但是，由于在杭校舍经历战乱破坏，满目苍痍，需要一段时间重建校园，因此浙江大学遵义总校迟至1946年5月才开始分批返杭。之前，浙江大学龙泉分校则于1945年先期复员返杭。</p>",
+                "asset":
+                {
+                    "media": "http://127.0.0.1/images/a.jpg",
+                    "thumbnail": "http://127.0.0.1/images/thumbs/a.png"
+                }
+            },
+            {
+                "startDate": "1949",
+                "endDate": "1998",
+                "headline": "发展：同根同源的四所高校",
+                "text": "<p>新中国成立后，浙江大学进入了发展的新纪元。经过1952年院系调整，浙大一部分学科和教师调出，主题部分发展成为后来的浙江大学、杭州大学、浙江农业大学和浙江医科大学。几十年中，源出一脉的四所高校继承和发扬“求是”的传统，紧紧围绕我国社会主义建设需要，培育人才，创新科技，服务社会，各自发展成为所在领域中实力较强、影响突出的高水平大学，形成了以求是创新精神为共同价值追求、体现科学差异和办学特色的大学文化，为国家的高等教育事业和科学技术的发展做出了积极贡献。</p>",
+                "asset":
+                {
+                    "media": "http://127.0.0.1/images/a.jpg",
+                    "thumbnail": "http://127.0.0.1/images/thumbs/a.png"
+                }
+            },
+            {
+                "startDate": "1998",
+                "headline": "超越：向世界一流大学迈进的浙江大学",
+                "text": "<p>1998年，同根同源的四校实现实质性合并，组件新浙江大学。新的浙江大学的成立，是党中央、国务院进一步实施科教兴国战略，迎接21世纪科学技术革命挑战，组建若干所规模大、层次高、学科门类齐全的综合性大学的重大战略举措之一，也是浙江大学迎来改个发展的一次新机遇。</p>",
+                "asset":
+                {
+                    "media": "http://127.0.0.1/images/a.jpg",
+                    "thumbnail": "http://127.0.0.1/images/thumbs/a.png"
+                }
+            }
+        ]
+    }
+}
