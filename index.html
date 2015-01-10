@@ -14,20 +14,27 @@
       
       <div class="navbar navbar-inverse navbar-fixed-top">
           <div class="container-fluid">
-              <a href="#" class="navbar-brand pull-left">浙江大学Timeline</a>
+              <div class="navbar-header">
+                <a href="#" class="navbar-brand pull-left">浙江大学Timeline</a>
               
-              <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-              </button>
-              
-              <div class="collpase navbar-collpase navHeaderCollapse" style="height:0px;">
-                  <ul class="nav navbar-nav navbar-right">
-                      <li class="zju-tab active"><a href="http://www.zju.edu.cn" title="浙江大学"><span>浙江大学</span></a></li>
+                  <button class="navbar-toggle" data-toggle="collapse" data-target="#navbar"  aria-expanded="false" aria-controls="navbar">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                  </button>
+              </div>
+              <div id="navbar" class="collpase navbar-collpase" aria-expanded="false">
+                  <ul class="nav navbar-nav">
+                    <li><a href="http://cspo.zju.edu.cn/redir.php?catalog_id=23380&object_id=141745" target="_blank">About</a></li>
+                    <li><a href="mailto:wuting@zu.edu.cn">Contact</a></li>
+                  </ul>
+                  <ul class="nav navbar-right">
+                      <li class="zju-tab"><a href="http://www.zju.edu.cn" title="浙江大学"><span>浙江大学</span></a></li>
                   </ul>
               </div>
           </div>
+          
       </div>
      
       <div id="timeline-embed"></div>
@@ -35,7 +42,7 @@
       
       <div class="navbar navbar-inverse navbar-fixed-bottom">
           <div class="container-fluid">
-              <p class="navbar-text pull-left">Created By wuting@zju.edu.cn. View source on <a href="https://github.com/p1o2p3u1/ZJUTimeline" target="_blank">GitHub</a></p>
+              <p class="navbar-text pull-left">Created By <a href="mailto:wuting@zu.edu.cn">wuting@zju.edu.cn</a>. </p>
           </div>
       </div>
       <script type="text/javascript">

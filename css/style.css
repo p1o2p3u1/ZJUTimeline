@@ -50,7 +50,7 @@ body
 }
 .zju-tab>a:hover span
 {
-    opacity:.9
+    opacity:.9;
 }
 @media(max-width:767px)
 {
@@ -66,40 +66,20 @@ body
     .navbar-fixed-top .container,
     .navbar-fixed-bottom .container
     {
-        width:940px
+        width:940px;
     }
 }
 @media(max-width:979px)
 {
     .zju-tab
     {
-        background-color:transparent
+        visibility: hidden;
     }
-    .zju-tab>a
+    body{
+        padding-bottom: 0px; 
+    }
+    .navbar-fixed-bottom
     {
-        background-color:transparent;
-        border-radius:0;
-        box-shadow:none;
-        display:inline-block;
-        height:auto;
-        margin-bottom:0;
-        padding:9px 15px!important;
-        width:auto
-    }
-    .zju-tab>a span
-    {
-        background-image:none;
-        background-color:transparent;
-        border-radius:0;
-        display:inline;
-        margin-bottom:0;
-        padding:0;text-indent:0
-    }
-    .zju-tab>a:hover
-    {
-        background-color:transparent!important
-    }
-    .zju-tab>a:hover span{
-        opacity:1
+        visibility: hidden;
     }
 }
